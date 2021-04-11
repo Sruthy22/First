@@ -4,4 +4,3 @@ contract helloworld{
       return "Hello World";
    }
  }
-© 2021 GitHub, Inc.
